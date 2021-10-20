@@ -10,6 +10,7 @@
 - [[#layout][Layout]]
 - [[#changelog][Changelog]]
 - [[#todo][Todo]]
+- [[#finex-qmk-layouts][FiNeX QMK Layouts]]
 
 * Customized keymap for GH60 (Satan) keyboard by Leonardo (FiNeX) Finetti
 This keymap change the default keymap to suit the author personal preferences.
@@ -41,3 +42,6 @@ setxkbmap -layout us -variant intl -option eurosign:e
 
 * Todo
 - Nothing planned.
+
+* FiNeX QMK Layouts
+All my custom QMK layouts are available on the following repo:  https://github.com/finex/qmk-keyboard-layouts-finex

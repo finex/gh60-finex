@@ -1,0 +1,43 @@
+#+TITLE: GH60 (Satan) Evo (Colemak DHm)
+#+AUTHOR: FiNeX (https://www.leonardofinetti.it)
+#+DATE: 20/10/2021
+#+STARTUP: inlineimages
+#+STARTUP: nofold
+
+* Table of Content :TOC:
+- [[#customized-keymap-for-gh60-satan-keyboard-by-leonardo-finex-finetti][Customized keymap for GH60 (Satan) keyboard by Leonardo (FiNeX) Finetti]]
+- [[#features][Features]]
+- [[#layout][Layout]]
+- [[#changelog][Changelog]]
+- [[#todo][Todo]]
+
+* Customized keymap for GH60 (Satan) keyboard by Leonardo (FiNeX) Finetti
+This keymap change the default keymap to suit the author personal preferences.
+Mainly adding function keys, navigation keys and ~◌̀~ ~◌́~ dead keys for accents.
+
+* Features
+- Layout: QWERTY.
+- Navigation layer.
+- "Print Screen" key.
+- Function keys.
+- ~◌̀~ ~◌́~ dead keys for accents.
+
+* Layout
+This keyboard layout is intended to be used with English (US, intl, with dead keys) settings on PC.
+
+On GNU/Linux systems use the following command to set the keyboard layout:
+#+begin_src sh
+setxkbmap -layout us -variant intl -option eurosign:e
+#+end_src
+
+#+CAPTION: GH60 (Satan) layout
+[[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
+
+
+
+* Changelog
+- 2021/10/20
+  First public release.
+
+* Todo
+- Nothing planned.

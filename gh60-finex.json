@@ -1,0 +1,218 @@
+[
+  {
+    "name": "GH60 FiNeX",
+    "author": "FiNeX",
+    "notes": "Satan GH60 PCB",
+    "background": {
+      "name": "Bamboo",
+      "style": "background-image: url('/bg/wood/bamboo.jpg');"
+    },
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX3A-L1xx",
+    "css": "@font-face {\n    font-style: normal;\n    font-weight: 400;\n    src: local('Exo 2'), url(https://fonts.googleapis.com/css?family=Exo+2&display) format('woff2');\n}\n\n@font-face {\n    font-style: normal;\n    font-weight: 700;\n    src: local('Exo 2'), url(https://fonts.googleapis.com/css?family=Exo+2&display) format('woff2');\n}\n\n* {\n    font-family: 'Exo 2', sans-serif;\n} \n\n.keylabel10{\n    margin-top:0px;\n    font-weight:400;\n    letter-spacing:0px;\n    font-size:8px!important;\n}\n\n.keylabel1{\n    margin-top:0px;\n    font-weight:400;\n    letter-spacing:0px;\n    font-size:8px!important;\n}\n\n.keylabel1,\n.keylabel7,\n.keylabel5{\n    font-weight: 400;\n}",
+    "plate": true
+  },
+  [
+    {
+      "c": "#e05f14"
+    },
+    "\nEsc",
+    {
+      "c": "#ecd4c6",
+      "t": "#000000\n\n\n\n\n\n\n\n#676767",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "!\n1\n\n\n\n\n\n\nF1",
+    "@\n2\n\n\n\n\n\n\nF2",
+    "#\n3\n\n\n\n\n\n\nF3",
+    "$\n4\n\n\n\n\n\n\nF4",
+    "%\n5\n\n\n\n\n\n\nF5",
+    "^\n6\n\n\n\n\n\n\nF6",
+    "&\n7\n\n\n\n\n\n\nF7",
+    "*\n8\n\n\n\n\n\n\nF8",
+    "(\n9\n\n\n\n\n\n\nF9",
+    ")\n0\n\n\n\n\n\n\nF10",
+    "_\n-\n\n\n\n\n\n\nF11",
+    "+\n=\n\n\n\n\n\n\nF12",
+    {
+      "c": "#323232",
+      "t": "#ffffff\n\n\n\n\n\n\n\n#919191",
+      "f": 3,
+      "w": 2
+    },
+    "\n⌫\n\n\n\n\n\n\n⌦"
+  ],
+  [
+    {
+      "t": "#ffffff",
+      "w": 1.5
+    },
+    "\nTab",
+    {
+      "c": "#ecd4c6",
+      "t": "#000000\n\n\n\n\n\n\n\n#676767",
+      "f": 3
+    },
+    "Q\n\n\n\n\n\n\n\n△",
+    {
+      "f": 3
+    },
+    "W\n\n\n\n\n\n\n\n↑",
+    {
+      "f": 3
+    },
+    "E\n\n\n\n\n\n\n\n▽",
+    {
+      "f": 3
+    },
+    "R\n\n\n\n\n\n\n\n⇱",
+    {
+      "t": "#000000"
+    },
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "{\n[",
+    "}\n]",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n#676767",
+      "f": 3,
+      "w": 1.5
+    },
+    "|\n\\\n\n\n\n\n\n\nPrint"
+  ],
+  [
+    {
+      "c": "#323232",
+      "t": "#ffffff\n\n\n\n#676767",
+      "w": 1.75
+    },
+    "\nEsc\n\n\nCtrl",
+    {
+      "c": "#ecd4c6",
+      "t": "#000000\n\n\n\n\n\n\n\n#676767",
+      "f": 3
+    },
+    "A\n\n\n\n\n\n\n\n←",
+    {
+      "f": 3
+    },
+    "S\n\n\n\n\n\n\n\n↓",
+    {
+      "f": 3
+    },
+    "D\n\n\n\n\n\n\n\n→",
+    {
+      "c": "#cbbcb2",
+      "f": 3
+    },
+    "F\n\n\n\n\n\n\n\n⇲",
+    {
+      "c": "#ecd4c6",
+      "t": "#000000"
+    },
+    "G",
+    "H",
+    {
+      "c": "#cbbcb2"
+    },
+    "J",
+    {
+      "c": "#ecd4c6"
+    },
+    "K",
+    "L",
+    ":\n;",
+    "\"\n'",
+    {
+      "c": "#323232",
+      "t": "#ffffff\n\n\n\n#676767",
+      "w": 2.25
+    },
+    "\n⏎\n\n\nCtrl"
+  ],
+  [
+    {
+      "t": "#ffffff\n\n\n#676767\n#676767\n\n\n\n#676767",
+      "f2": 0,
+      "w": 2.25
+    },
+    "\n<span>&#9676;&#768;</span>\n\n\nShift\n\n\n\nCaps",
+    {
+      "c": "#ecd4c6",
+      "t": "#000000"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "c": "#e05f14",
+      "t": "#000000\n\n\n#676767\n#676767",
+      "w": 2.75
+    },
+    "\n<span>&#9676;&#769;</span>\n\n\nShift"
+  ],
+  [
+    {
+      "c": "#323232",
+      "t": "#ffffff\n\n\n\n#676767",
+      "a": 7,
+      "w": 1.25
+    },
+    "\n\n\n\nCtrl",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nWin",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nAlt",
+    {
+      "c": "#ecd4c6",
+      "t": "#000000",
+      "a": 4,
+      "w": 6.25
+    },
+    "\n␣",
+    {
+      "c": "#323232",
+      "t": "#ffffff\n\n\n\n#676767",
+      "w": 1.25
+    },
+    "\n←\n\n\nAlt Gr",
+    {
+      "w": 1.25
+    },
+    "\n↓\n\n\n≡ Fun",
+    {
+      "w": 1.25
+    },
+    "\n↑\n\n\nWin",
+    {
+      "w": 1.25
+    },
+    "\n→\n\n\nCtrl"
+  ]
+]
